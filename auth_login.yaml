@@ -1,0 +1,11 @@
+# Menu-Setup.
+#
+# name and label are required for each item
+# color and icon are optional
+# only gifs (48x48) are supported
+#
+---
+  -
+    password: "6"
+    name: "Mauro"
+    surname: "Cespedes"

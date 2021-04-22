@@ -1,0 +1,762 @@
+---
+  -
+    name : "1"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "2"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-leche"
+  -
+    name : "3"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "4"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-leche"
+      -
+        image: "allergenico-frutosSecos"
+  -
+    name : "5"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "6"
+    items:
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-apio"
+  -
+    name : "7"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-huevo"
+  -
+    name : "8"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-leche"
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "9"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "10"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-sesamo"
+      -
+        image: "allergenico-gluten"
+  -
+    name : "11"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "12"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "13"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-gluten"
+  -
+    name : "14"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-soja"
+  -
+    name : "15"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-gluten"
+  -
+    name : "16"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-gluten"
+  -
+    name : "17"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "18"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "20"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "21"
+  -
+    name : "22"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "23"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-pescado"
+  -
+    name : "24"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "40"
+    items:
+      -
+        image: "allergenico-cacahuates"
+      -
+        image: "allergenico-soja"
+      -
+        image: "hot-3"
+  -
+    name : "41"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "42"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "43"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "44"
+    items:
+      -
+        image: "allergenico-moluscos"
+      -
+        image: "allergenico-soja"
+  -
+    name : "45"
+    items:
+      -
+        image: "allergenico-cacahuates"
+      -
+        image: "allergenico-soja"
+      -
+        image: "hot-2"
+  -
+    name : "46"
+    items:
+      -
+        image: "allergenico-soja"
+      -
+        image: "hot-1"
+  -
+    name : "47"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "48"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "49"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "50"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "51"
+    items:
+      -
+        image: "hot-1"
+      -
+        image: "allergenico-soja"
+  -
+    name : "52"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "53"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-apio"
+  -
+    name : "54"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "55"
+    items:
+      -
+        image: "allergenico-cacahuate"
+      -
+        image: "allergenico-soja"
+      -
+        image: "hot-2"
+  -
+    name : "56"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-frutosSecos"
+  -
+    name : "56A"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "57"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "58"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "59"
+    items:
+      -
+        image: "allergenico-frutosSecos"
+      -
+        image: "allergenico-soja"
+  -
+    name : "60"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "61"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "62"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "63"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-frutosSecos"
+  -
+    name : "64"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "65"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "66"
+    items:
+      -
+        image: "hot-2"
+      -
+        image: "allergenico-soja"
+  -
+    name : "67"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "68"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "69"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "70"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "71"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "72"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "73"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-frutosSecos"
+  -
+    name : "74"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-soja"
+  -
+    name : "75"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "76"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-soja"
+      -
+        image: "hot-3"
+  -
+    name : "77"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-soja"
+  -
+    name : "78"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-huevo"
+  -
+    name : "79"
+    items:
+      -
+        image: "allergenico-marisco"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-huevo"
+  -
+    name : "80"
+    items:
+      -
+        image: "allergenico-soja"
+  -
+    name : "81"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-huevo"
+  -
+    name : "82"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "83"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        imege: "allergenico-marisco"
+  -
+    name : "84"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "85"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+      -
+        image: "allergenico-marisco"
+  -
+    name : "86"
+    items:
+      -
+        image: "allergenico-soja"
+      -
+        imege: "allergenico-marisco"
+  -
+    name : "87"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "88"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "89"
+    items:
+      -
+        image: "allergenico-gluten"
+      -
+        image: "allergenico-soja"
+  -
+    name : "90"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "91"
+    items:
+      -
+        image: "allergenico-gluten"
+  -
+    name : "101"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "102"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "103"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "104"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "105"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "107"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "108"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "110"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "111"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "112"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "114"
+    items:
+      -
+        image: "allergenico-leche"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "115"
+    items:
+      -
+        image: "allergenico-leche"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "116"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "117"
+    items:
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "118"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "120"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "121"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "122"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-marisco"
+  -
+    name : "123"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "124"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "125"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-leche"
+  -
+    name : "126"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "128"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "129"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "130"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "131"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "133"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "134"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "135"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "136"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "137"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "138"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "139"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "140"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "141"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "142"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "143"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "144"
+    items:
+      -
+        image: "allergenico-pescado"
+  -
+    name : "145"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-marsico"
+  -
+    name : "146"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-marisco"
+  -
+    name : "147"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-marisco"
+  -
+    name : "148"
+    items:
+      -
+        image: "allergenico-pescado"
+      -
+        image: "allergenico-sesamo"
+  -
+    name : "149"
+    items:
+      -
+        image: "allergenico-marisco"
+  -
+    name : "150"
+    items:
+      -
+        image: "allergenico-pescado"

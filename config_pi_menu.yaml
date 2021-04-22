@@ -1,0 +1,94 @@
+# Menu-Setup.
+#
+# name and label are required for each item
+# color and icon are optional
+# only gifs (48x48) are supported
+#
+---
+  -
+    name: "config_menu"
+    label: "
+
+    WELCOME  INOSUKE HASHIBIRA"
+    color: "#000000"
+    #icon : "city"
+    image: "demon_slayer_corps"
+    price : ""
+    description : ""
+    points : ""
+    pointsImg : ""
+    items:
+      -
+        name : "configuracion"
+        label: ""
+        color: "#fafafa"
+        #icon : "food.silverware"
+        image: "menu-cover"
+        price : ""
+        description : ""
+        units : ""
+        points : ""
+        pointsImg : ""
+        items:
+          -
+            name : "tema"
+            label: "Tallarines y Fideos"
+            color: "#fafafa"
+            image : "tallarines-fritos-PP"
+            price : ""
+            description : ""
+            units : ""
+            points : ""
+            pointsImg : ""
+            items :
+              -
+                name : "83"
+                label: "Tres delicias"
+                color: "#fafafa"
+                image : "tallarines-3d-PP"
+                price : ""
+                description : ""
+                units : ""
+                points : ""
+                pointsImg : ""
+                items :
+                  -
+                    name : "83"
+                    label : "Tallarines tres delicias"
+                    price : 4.95
+                    description : "Tallarines fritos con verdura, pollo, ternera y gambas"
+                    units : "1"
+                    image : "tallarines-3d-PP-big"
+                    points : 1
+                    pointsImg : "points-1"
+          -
+            name : "Arroz"
+            label: "Arroz"
+            color: "#fafafa"
+            image : "rice-white-PP"
+            price : ""
+            description : ""
+            units : ""
+            points : ""
+            pointsImg : ""
+            items :
+              -
+                name : "78"
+                label: "Tres delicias"
+                color: "#fafafa"
+                image : "rice-3d-PP"
+                price : ""
+                description : ""
+                units : ""
+                points : ""
+                pointsImg : ""
+                items :
+                  -
+                    name : "78"
+                    label : "Arroz tres delicias"
+                    price : 4.25
+                    description : ""
+                    units : ""
+                    points : 0.25
+                    pointsImg : "points-1"
+                    image : "rice-3d-PP"
